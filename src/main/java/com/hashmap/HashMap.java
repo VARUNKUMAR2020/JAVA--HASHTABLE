@@ -8,7 +8,7 @@ public class HashMap
     public static void main( String[] args )
     {
         System.out.println( "Hash Map" );
-        String str = "To be or not to be"; 
+        String str = "Paranoids are not paranoid because they are paranoid but because they keep putting themselves deliberately into paranoid avoidable situations"; 
         printFreq(str); 
     } 
     static void printFreq(String str) 
